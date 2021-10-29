@@ -9,4 +9,4 @@ The corresponding x values are the x-intercepts of the graph, while a, b, and c 
 
 This C++ program called quadratic.cpp that solves the quadratic equation for the x‘s:
 
-<a href="https://www.codecogs.com/eqnedit.php?latex=\large&space;x&space;=&space;\frac{-b\pm\sqrt{b^2-4ac}}{2a}" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\large&space;x&space;=&space;\frac{-b\pm\sqrt{b^2-4ac}}{2a}" title="\large x = \frac{-b\pm\sqrt{b^2-4ac}}{2a}" /></a>
+<img src="https://latex.codecogs.com/svg.latex?\large&space;x&space;=&space;\frac{-b\pm\sqrt{b^2-4ac}}{2a}" title="\large x = \frac{-b\pm\sqrt{b^2-4ac}}{2a}" />
