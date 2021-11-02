@@ -13,6 +13,6 @@ This C++ program called quadratic.cpp that solves the quadratic equation for the
 
  \[\large x = \frac{-b\pm\sqrt{b^2-4ac}}{2a}\]
  
- <img src="https://latex.codecogs.com/svg.latex?\inline&space;\large&space;x&space;=&space;\frac{-b\pm\sqrt{b^2-4ac}}{2a}\" title="\large x = \frac{-b\pm\sqrt{b^2-4ac}}{2a}\" />
+ <img src="https://latex.codecogs.com/svg.latex?\large&space;x&space;=&space;\frac{-b\pm\sqrt{b^2-4ac}}{2a}\" title="\large x = \frac{-b\pm\sqrt{b^2-4ac}}{2a}\" />
 
 
