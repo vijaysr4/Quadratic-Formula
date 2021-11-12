@@ -2,7 +2,7 @@
 #include <cmath>
 
 int main() {
-  //variable declaration
+  // Variable declaration
   double a, b, c;
 
   //user input 
