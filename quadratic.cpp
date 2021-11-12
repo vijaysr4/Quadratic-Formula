@@ -15,7 +15,7 @@ int main() {
   std::cout << "Enter c: ";
   std::cin >> c;
   
-  //declaring variables for quadratic eq
+  // Declaring variables for quadratic eq
   double root1, root2;
   
   //quadratic eq formula
