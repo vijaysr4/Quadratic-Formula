@@ -5,7 +5,7 @@ int main() {
   // Variable declaration
   double a, b, c;
 
-  //user input 
+  // User input 
   std::cout << "Enter a: ";
   std::cin >> a;
   
