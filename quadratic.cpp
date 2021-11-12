@@ -18,7 +18,7 @@ int main() {
   // Declaring variables for quadratic eq
   double root1, root2;
   
-  //quadratic eq formula
+  // Quadratic eq formula
   root1 = (-b + std::sqrt((b*b) - (4*a*c))) / (2*a);
   
   root2 = (-b - std::sqrt((b*b) - (4*a*c))) / (2*a);
